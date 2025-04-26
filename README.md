@@ -1,0 +1,2 @@
+# rusting
+re-learning rust
